@@ -1,0 +1,9 @@
+v 3
+d pequtest
+d Testing parameter equality across different models in Stata.
+d Author: Hasraddin Guliyev, Azerbaijan State University of Economics
+d hasradding@unec.edu.az
+d Version 1.0.0
+d Requires Stata 14 or later
+f pequtest.ado
+f pequtest.sthlp
