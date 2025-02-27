@@ -1,0 +1,6 @@
+v 3
+d pequtest
+d A command to test for bias between two regression models in Stata.
+d Distribution-Date: 2025-02-20
+f pequtest.ado
+f pequtest.sthlp
